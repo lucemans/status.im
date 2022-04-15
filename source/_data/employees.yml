@@ -634,6 +634,12 @@ employees:
   - id: '276'
     firstName: Siddarth
     workEmail: siddarth@status.im
-    customStatusPublicKey: null
+    customStatusPublicKey: '0x042f0d47dc876ebc2dff227582a940f65a4461848e0518b9f8db84930e97f1661817c43c698522d7b06b0a070c0e9da32fd5075d02b837a33503c9454d9b437ec9'
     customGitHubusername: siddarthkay
     photoUrl: 'https://statusim.bamboohr.com/employees/photos/?h=d40e094cd5b4d9c3d0d6ae9d1f3dc692'
+  - id: '283'
+    firstName: Ludovic
+    workEmail: ludovic@status.im
+    customStatusPublicKey: null
+    customGitHubusername: null
+    photoUrl: 'https://statusim.bamboohr.com/employees/photos/?h=ea88d4bec42e90de36459b783eee4682'
