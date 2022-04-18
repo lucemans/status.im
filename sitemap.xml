@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/user_guides/pairing_devices.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/user_guides/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
@@ -30,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/v1/index.html</loc>
+    <loc>https://status.im/user_guides/pairing_devices.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -38,6 +31,13 @@
   
   <url>
     <loc>https://status.im/web-three-browser/index.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/v1/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -79,13 +79,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/user_guides/gpg_signature_verification.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/user_guides/desktop_beta_install.html</loc>
     
     <lastmod>2022-04-14</lastmod>
@@ -93,7 +86,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/technical/report_a_bug.html</loc>
+    <loc>https://status.im/user_guides/gpg_signature_verification.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -101,6 +94,13 @@
   
   <url>
     <loc>https://status.im/technical/pfs.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/technical/report_a_bug.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -135,14 +135,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/technical/org_github_labels.html</loc>
+    <loc>https://status.im/technical/index-oos.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/technical/index-oos.html</loc>
+    <loc>https://status.im/technical/org_github_labels.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -156,14 +156,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/technical/embark.html</loc>
+    <loc>https://status.im/technical/contributor_guide.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/technical/ens_usernames.html</loc>
+    <loc>https://status.im/technical/embark.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -177,14 +177,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/technical/contributor_guide.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/technical/build_status/index.html</loc>
+    <loc>https://status.im/technical/ens_usernames.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -192,6 +185,13 @@
   
   <url>
     <loc>https://status.im/technical/build_status/status_go.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/technical/build_status/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -226,7 +226,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/influencer-guidelines/index.html</loc>
+    <loc>https://status.im/get-involved/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -240,7 +240,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/get-involved/index.html</loc>
+    <loc>https://status.im/influencer-guidelines/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -254,13 +254,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/mobile-release-schedule/index.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/keycard-integration/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
@@ -268,7 +261,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/nft-nyc/index.html</loc>
+    <loc>https://status.im/mobile-release-schedule/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -276,6 +269,13 @@
   
   <url>
     <loc>https://status.im/nightly/index.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/nft-nyc/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -296,13 +296,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/our_team/index.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/our_team/faqs.html</loc>
     
     <lastmod>2022-04-14</lastmod>
@@ -310,28 +303,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/our_team/our_principles.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/our_team/the_future.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/partner-template/index.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/our_team/perks_benefits.html</loc>
+    <loc>https://status.im/our_team/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -345,7 +317,28 @@
   </url>
   
   <url>
-    <loc>https://status.im/referral-program/index.html</loc>
+    <loc>https://status.im/our_team/perks_benefits.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/our_team/our_principles.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/partner-template/index.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/our_team/the_future.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -353,6 +346,20 @@
   
   <url>
     <loc>https://status.im/private-messenger/index.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/referral-program/index.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/privacy-policy/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -373,21 +380,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/privacy-policy/index.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/research/index.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/research/whisper_faqs.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -408,6 +401,13 @@
   </url>
   
   <url>
+    <loc>https://status.im/research/whisper_faqs.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/research/ulc_in_details.html</loc>
     
     <lastmod>2022-04-14</lastmod>
@@ -422,14 +422,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/security/index.html</loc>
+    <loc>https://status.im/research/whisper_pss.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/research/whisper_pss.html</loc>
+    <loc>https://status.im/security/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -443,14 +443,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/tbp/index.html</loc>
+    <loc>https://status.im/status-nodes/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/status-nodes/index.html</loc>
+    <loc>https://status.im/tbp/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -471,6 +471,13 @@
   </url>
   
   <url>
+    <loc>https://status.im/get/windows/index.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/get/android/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
@@ -478,14 +485,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/get/ios/index.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/get/linux/index.html</loc>
+    <loc>https://status.im/get/apk/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -499,21 +499,21 @@
   </url>
   
   <url>
+    <loc>https://status.im/get/linux/index.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/get/ios/index.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/get-involved/community-groups/index.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/get-involved/developers/index.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/get/windows/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -527,7 +527,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/get/apk/index.html</loc>
+    <loc>https://status.im/get-involved/developers/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -562,6 +562,13 @@
   </url>
   
   <url>
+    <loc>https://status.im/faq/index.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/features/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
@@ -576,7 +583,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/faq/index.html</loc>
+    <loc>https://status.im/developer_tools/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -584,13 +591,6 @@
   
   <url>
     <loc>https://status.im/developer_tools/intro_extensions.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/developer_tools/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -618,6 +618,13 @@
   </url>
   
   <url>
+    <loc>https://status.im/developer_tools/run_on_status/index.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/developer_tools/run_on_status/dapp_store_requirements.html</loc>
     
     <lastmod>2022-04-14</lastmod>
@@ -632,13 +639,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/developer_tools/status_extras/status_dapp_api.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/developer_tools/run_on_status/eip-1102.html</loc>
     
     <lastmod>2022-04-14</lastmod>
@@ -646,7 +646,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/developer_tools/run_on_status/index.html</loc>
+    <loc>https://status.im/developer_tools/status_extras/status_dapp_api.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -695,6 +695,13 @@
   </url>
   
   <url>
+    <loc>https://status.im/build_status/makefile_tour.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/criptomaniacos/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
@@ -703,13 +710,6 @@
   
   <url>
     <loc>https://status.im/crypto-atelier/index.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/build_status/makefile_tour.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -730,6 +730,13 @@
   </url>
   
   <url>
+    <loc>https://status.im/developer_tools/add_your_dapp.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/developer_tools/debug.html</loc>
     
     <lastmod>2022-04-14</lastmod>
@@ -738,13 +745,6 @@
   
   <url>
     <loc>https://status.im/developer_tools/detecting_status.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/developer_tools/add_your_dapp.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -767,7 +767,7 @@
 
   <url>
     <loc>https://status.im/</loc>
-    <lastmod>2022-04-16</lastmod>
+    <lastmod>2022-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
